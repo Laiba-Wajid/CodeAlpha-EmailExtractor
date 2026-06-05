@@ -77,7 +77,7 @@ python3 --version
 ## Clone Repository
 
 ```bash
-https://github.com/Capt-Nouman/CodeAlpha-EmailExtractor.git
+https://github.com/Laiba-Wajid/CodeAlpha-EmailExtractor.git
 ```
 
 Move into project directory:
