@@ -93,7 +93,7 @@ cd Email-Extractor
 Run the script using:
 
 ```bash
-python Email-Eextractor.py
+python Email-Extractor.py
 ```
 
 or
